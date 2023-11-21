@@ -1,0 +1,2 @@
+Prefix plugins/GPUHistogramSort/example/
+Plugin GPUHistogramSort inputfile parameters.txt outputfile output.raw
